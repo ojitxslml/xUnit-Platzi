@@ -7,10 +7,6 @@ Este repositorio contiene el código fuente y ejemplos prácticos del curso de p
 - **StringManipulation/**  
   Proyecto principal con lógica de manipulación de cadenas:
   - `StringOperations.cs`: Métodos para operaciones como verificación de palíndromos, eliminación de espacios y conversión de cantidades a palabras.
-  - `IFileReaderConector.cs`: Interfaz para la lectura de archivos.
-  - `Program.cs`: Punto de entrada de la aplicación.
-  - `information.txt`: Archivo de ejemplo para pruebas de lectura.
-  - Archivos de configuración y solución (`.csproj`, `.sln`).
 
 - **StringManipulation.Test/**  
   Proyecto de pruebas unitarias:
